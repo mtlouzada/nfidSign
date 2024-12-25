@@ -1,5 +1,7 @@
 # nfidSign
 
+![Screenshot 2024-12-25 172730](https://github.com/user-attachments/assets/7e746902-6ddc-482f-86e8-8a6e8c73d50d)
+
 _Leia isso em outra lingua:_ 🇺🇸 [_English_](../../README.md) ⚪🔵
 
 **nfidSign** é o terceiro projeto de autenticação que desenvolvi esta semana, focado no uso do protocolo NFID na rede Internet Computer (ICP). Este projeto demonstra como autenticar usuários utilizando o NFID, uma solução de login que suporta contas Google e também cria automaticamente uma carteira (wallet) no processo de autenticação.
