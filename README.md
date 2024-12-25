@@ -11,7 +11,7 @@ _Read this in other languages:_ 🇧🇷 [_Português_](./src/translations/READM
 - Login with NFID, including support for Google accounts.
 - Automatic creation of a wallet for the user during login.
 - Display of messages indicating whether the user is authenticated.
-- Logout option to end the user session.
+- Logout option to end the user session.(soon)
 
 ## 🛠️ Technologies Used
 

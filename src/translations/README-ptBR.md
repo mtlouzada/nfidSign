@@ -11,7 +11,7 @@ _Leia isso em outra lingua:_ 🇺🇸 [_English_](../../README.md) ⚪🔵
 - Login com NFID, incluindo suporte a contas Google.
 - Criação automática de uma wallet para o usuário durante o login.
 - Exibição de mensagens indicando se o usuário está autenticado.
-- Opção de logout para encerrar a sessão do usuário.
+- Opção de logout para encerrar a sessão do usuário.(em breve)
 
 ## 🛠️ Tecnologias Utilizadas
 
